@@ -1,0 +1,21 @@
+# Core Data Handling
+pandas
+openpyxl
+
+# Data Validation & Settings Management
+pydantic
+pydantic-settings
+python-dotenv
+
+# Agent Workflow & Multi-Provider LLM Gateway
+langgraph
+langchain-core
+litellm
+
+# Networking, Scraper, & Resilience
+requests
+ddgs
+tenacity
+
+# Testing
+pytest
