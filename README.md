@@ -131,6 +131,9 @@ Populate `.env` with your API credentials:
 GROQ_API_KEY=gsk_your_actual_groq_api_key_here
 IMAGE_GENERATION_LIMIT=3
 LOG_LEVEL=INFO
+ENVIRONMENT=development 
+MAX_RETRIES=3 
+REQUEST_TIMEOUT_SECONDS=30
 ```
 
 ### 4. Place Input Data
